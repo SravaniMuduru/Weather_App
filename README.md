@@ -60,10 +60,10 @@ Then add your API key inside:
 ## 📸 Screenshots
 
 ### 🌍 Home Screen
-![Home Screen](./assets/home.png)
+![Home Screen](images/home.png)
 
 ### 📊 Weather Result
-![Weather Result](./assets/result.png)
+![Weather Result](images/result.png)
 
 
 
